@@ -2,11 +2,10 @@
 
 ## About Me
 
-I'm a passionate software developer with a focus on creating **optimized, lightweight applications** that deliver maximum functionality with minimal resource footprint. I believe in the philosophy that great software should be efficient, fast, and respectful of system resources.
+I'm a passionate software developer with a focus on creating **optimized, lightweight applications** that deliver maximum functionality with minimal resource footprint. I believe in the philosophy that good software should be efficient, fast, and respectful of system resources.
 
 ### My Development Philosophy
-I believe that every line of code should serve a purpose. I give it my
-best to leave no dead or useless code in my projects. To achieve a lightweight design, I try to do most things from scratch. All my repositories follow clean architecture principles.
+I give it my best to leave no dead or useless code in my projects. To achieve a lightweight design, I try to do most things from scratch. All my repositories follow clean architecture principles.
 
 ## Technologies & Skills
 
@@ -23,13 +22,7 @@ best to leave no dead or useless code in my projects. To achieve a lightweight d
 ![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 ![Win32 API](https://img.shields.io/badge/Win32_API-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
-### **Specializations**
-- ⚡ **Performance Optimization**
-- 🪟 **Windows System Programming**
-- 🔧 **Low-level API Integration**
-- 🎨 **Minimal UI/UX Design**
-
-## 🏆 Featured Projects
+## 🏆 Latest Projects
 
 ### 🚫 [SimBlock - Input Device Blocker](https://github.com/S1mplector/Simblock)
 > **A lightweight Windows utility for safely cleaning peripherals**
@@ -40,7 +33,6 @@ best to leave no dead or useless code in my projects. To achieve a lightweight d
 - 🔒 **Global input blocking** via Win32 API hooks
 - 🆘 **Emergency unlock** system with configurable shortcuts
 - 🖥️ **System tray integration** for seamless workflow
-- 🏗️ **Clean Architecture** implementation
 
 **Key Achievement**: Built with zero external dependencies beyond .NET framework, demonstrating commitment to lightweight design.
 
@@ -54,11 +46,11 @@ best to leave no dead or useless code in my projects. To achieve a lightweight d
 </div>
 
 
-I'm passionate about:
-- **Optimizing algorithms** and data structures for peak performance
+## I'm passionate about:
+
 - **Eliminating bloat** from software architectures
 - **System-level programming** and understanding how things work under the hood
-- **Continuous learning** about emerging technologies and optimization techniques
+- **Learning and improving myself** about emerging technologies and optimization techniques
 - **Open source contribution** to projects that align with efficiency-first principles
 
 ## Professional Interests
@@ -66,19 +58,13 @@ I'm passionate about:
 - **Desktop Application Development** (Windows/Cross-platform)
 - **System Programming & Performance Optimization**
 - **Embedded Systems & IoT**
-- **Game Engine Architecture**
 - **Developer Tools & Productivity Software**
 
 ## Let's Connect!
 
 I'm always interested in discussing optimization techniques, clean architecture, or collaborating on lightweight software projects.
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/S1mplector)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilgaz-mehmeto%C4%9Flu-8ab3992a2/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehmetogluilgaz07@gmail.com)
 
 ---
-
-<div align="center">
-  <i>🚀 Building the future, one optimized line of code at a time</i>
-</div>
