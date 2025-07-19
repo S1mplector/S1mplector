@@ -2,9 +2,7 @@
 
 ## About Me
 
-I'm a passionate software developer with a focus on creating **optimized, lightweight applications** that deliver maximum functionality with minimal resource footprint. I believe in the philosophy that good software should be efficient, fast, and respectful of system resources.
-
-### My Development Philosophy
+I'm a novice software developer with a focus on creating **optimized, lightweight applications** that deliver maximum functionality with minimal resource footprint. I believe in the philosophy that good software should be efficient, fast, and respectful of system resources.
 I give it my best to leave no dead or useless code in my projects. To achieve a lightweight design, I try to do most things from scratch. All my repositories follow clean architecture principles.
 
 ## Technologies & Skills
@@ -24,17 +22,10 @@ I give it my best to leave no dead or useless code in my projects. To achieve a 
 
 ## 🏆 Latest Projects
 
-### 🚫 [SimBlock - Input Device Blocker](https://github.com/S1mplector/Simblock)
+### [SimBlock - Input Device Blocker](https://github.com/S1mplector/Simblock)
 > **A lightweight Windows utility for safely cleaning peripherals**
 
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/.NET_8-5C2D91?style=flat-square&logo=.net&logoColor=white"> <img src="https://img.shields.io/badge/WinForms-0078D4?style=flat-square&logo=windows&logoColor=white">
-
-- 🎯 **Ultra-lightweight** - Minimal memory footprint and CPU usage
-- 🔒 **Global input blocking** via Win32 API hooks
-- 🆘 **Emergency unlock** system with configurable shortcuts
-- 🖥️ **System tray integration** for seamless workflow
-
-**Key Achievement**: Built with zero external dependencies beyond .NET framework, demonstrating commitment to lightweight design.
 
 ---
 
