@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a novice software developer with a focus on creating **optimized, lightweight applications** that deliver maximum functionality with minimal resource footprint. I believe in the philosophy that good software should be efficient, fast, and respectful of system resources.
+I'm a novice software developer and aspiring cybersecurity analyst with a focus on creating **optimized, lightweight and secure applications** that deliver maximum functionality with minimal resource footprint. I believe in the philosophy that good software should be efficient, fast, and respectful of system resources.
 I give it my best to leave no dead or useless code in my projects. To achieve a lightweight design, I try to do most things from scratch. All my repositories follow clean architecture principles.
 
 ## Technologies & Skills
@@ -20,7 +20,7 @@ I give it my best to leave no dead or useless code in my projects. To achieve a 
 ![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 ![Win32 API](https://img.shields.io/badge/Win32_API-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
-## 🏆 Latest Projects
+## Latest Projects
 
 ### [SimBlock - Input Device Blocker](https://github.com/S1mplector/Simblock)
 > **A lightweight Windows utility for safely cleaning peripherals**
@@ -29,26 +29,17 @@ I give it my best to leave no dead or useless code in my projects. To achieve a 
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=S1mplector&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S1mplector&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
-
-## I'm passionate about:
-
-- **Eliminating bloat** from software architectures
-- **System-level programming** and understanding how things work under the hood
-- **Learning and improving myself** about emerging technologies and optimization techniques
-- **Open source contribution** to projects that align with efficiency-first principles
-
 ## Professional Interests
 
 - **Desktop Application Development** (Windows/Cross-platform)
 - **System Programming & Performance Optimization**
-- **Embedded Systems & IoT**
 - **Developer Tools & Productivity Software**
 
 ## Let's Connect!
