@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a novice software developer and aspiring cybersecurity analyst with a focus on creating **optimized, lightweight and secure applications** that deliver maximum functionality with minimal resource footprint. I believe in the philosophy that good software should be efficient, fast, and respectful of system resources.
+I'm a novice software developer aspiring to work in QA and automation with a focus on creating **optimized, lightweight and secure applications** that deliver maximum functionality with minimal resource footprint. I believe in the philosophy that good software should be efficient, fast, and respectful of system resources.
 I give it my best to leave no dead or useless code in my projects. To achieve a lightweight design, I try to do most things from scratch. All my repositories follow clean architecture principles.
 
 ## Technologies & Skills
