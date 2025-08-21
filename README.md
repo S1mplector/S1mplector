@@ -1,4 +1,4 @@
-# Hi there! I'm S1mplector.
+# Hi there! I'm Sim. 
 
 ## About Me
 
