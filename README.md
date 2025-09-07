@@ -1,4 +1,4 @@
-# Hi there! I'm Sim. 
+# Hi there! I'm Ilgaz. 
 
 ## About Me
 
