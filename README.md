@@ -39,8 +39,8 @@ I give it my best to leave no dead or useless code in my projects. All my reposi
 ## Professional Interests
 
 - **Desktop Application Development** (Windows/Cross-platform)
-- **System Programming & Performance Optimization**
 - **Developer Tools & Productivity Software**
+- **Organizational & Medical Software**
 
 ## Let's Connect!
 
