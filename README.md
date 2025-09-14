@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm an intermediate level psychologically informed software developer aspiring to work in QA and test automation with a focus on creating **optimized, lightweight and secure applications** that deliver maximum functionality with minimal resource footprint. I believe in the philosophy that good software should be efficient, fast, and respectful of system resources.
+I'm a psychologically informed software developer aspiring to work in QA and test automation with a focus on creating **optimized, lightweight and secure applications** that deliver maximum functionality with minimal resource footprint. I believe in the philosophy that good software should be efficient, fast, and respectful of system resources.
 I give it my best to leave no dead or useless code in my projects. All my repositories follow clean architecture and test-driven development principles.
 
 ## Technologies & Skills
