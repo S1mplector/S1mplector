@@ -3,6 +3,7 @@
 ## About Me
 
 I'm a software developer aspiring to work in QA and test automation.
+
 My focus is on creating **optimized, lightweight and easy to use applications** that deliver maximum functionality with minimal resource footprint. I believe in the philosophy that good software should be efficient, fast, and respectful of system resources.
 
 I give it my best to leave no dead or useless code in my projects. All my repositories follow clean architecture and test-driven development principles.
