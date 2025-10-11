@@ -2,9 +2,9 @@
 
 ## About Me
 
-I'm a software developer aspiring to work in QA and test automation.
+I'm a psychologically minded developer aspiring to work in UX and Usability Testing.
 
-My focus is on creating **optimized, lightweight and easy to use applications** that deliver maximum functionality with minimal resource footprint. I believe in the philosophy that good software should be efficient, fast, and respectful of system resources.
+My focus is on creating **optimized, lightweight and easy to use applications** that deliver maximum functionality with minimal resource footprint.
 
 I give it my best to leave no dead or useless code in my projects. All my repositories follow clean architecture and test-driven development principles.
 
@@ -44,6 +44,7 @@ I give it my best to leave no dead or useless code in my projects. All my reposi
 
 - **Standalone Desktop Application Development** (Windows/Cross-platform)
 - **Developer Tools & Productivity Software**
+- **Web Development** (Professional/Self use)
 
 ## Let's Connect!
 
