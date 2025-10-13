@@ -44,7 +44,7 @@ I give it my best to leave no dead or useless code in my projects. All my reposi
 
 - **Standalone Desktop Application Development** (Windows/Cross-platform)
 - **Developer Tools & Productivity Software**
-- **Web Development** (Professional/Self use)
+- **Educational Software**
 
 ## Let's Connect!
 
