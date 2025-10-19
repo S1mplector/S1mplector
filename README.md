@@ -2,7 +2,7 @@
 
 ## About Me
 
-[![Available for Hire](https://img.shields.io/badge/Available%20for%20Hire-Yes-green)](mailto:mehmetogluilgaz07@gmail.com)
+[![Available for Hire](https://img.shields.io/badge/Available%20for%20Hire-Yes-blue?style=flat-square&logo=briefcase&logoColor=white)](mailto:mehmetogluilgaz07@gmail.com)
 
 I'm a psychologically minded developer aspiring to work in UX and Usability Testing.
 
