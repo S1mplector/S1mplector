@@ -1,6 +1,6 @@
 # Hi there! I'm Sim. 
 
-[![Available for Hire](https://img.shields.io/badge/Available%20for%20Hire-Yes-blue?style=flat-square&logo=briefcase&logoColor=white)](mailto:mehmetogluilgaz07@gmail.com)
+[![Available for Work](https://img.shields.io/badge/Available%20for%20Work-Yes-blue?style=flat-square&logo=briefcase&logoColor=white)](mailto:mehmetogluilgaz07@gmail.com)
 
 ## About Me
 
