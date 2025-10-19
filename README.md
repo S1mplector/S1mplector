@@ -19,9 +19,9 @@ I give it my best to leave no dead or useless code in my projects. All my reposi
 
 ### **Testing Stack**
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logoColor=white)
 ![NUnit](https://img.shields.io/badge/NUnit-0A9EDC?style=for-the-badge&logo=nunit&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logoColor=white)
 
 ### **Frameworks & Technologies I Use**
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
