@@ -17,6 +17,12 @@ I give it my best to leave no dead or useless code in my projects. All my reposi
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+### **Testing Stack**
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white)
+![NUnit](https://img.shields.io/badge/NUnit-0A9EDC?style=for-the-badge&logo=nunit&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
 ### **Frameworks & Technologies I Use**
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -52,5 +58,6 @@ I'm always interested in discussing collaborating on future projects and persona
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilgaz-mehmeto%C4%9Flu-8ab3992a2/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehmetogluilgaz07@gmail.com)
+[![Available for Hire](https://img.shields.io/badge/Available%20for%20Hire-Yes-green)](mailto:mehmetogluilgaz07@gmail.com)
 
 ---
