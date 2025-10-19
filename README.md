@@ -58,5 +58,4 @@ I'm always interested in discussing collaborating on future projects and persona
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilgaz-mehmeto%C4%9Flu-8ab3992a2/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehmetogluilgaz07@gmail.com)
-
 ---
