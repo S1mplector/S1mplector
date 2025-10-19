@@ -1,8 +1,8 @@
 # Hi there! I'm Sim. 
 
-## About Me
-
 [![Available for Hire](https://img.shields.io/badge/Available%20for%20Hire-Yes-blue?style=flat-square&logo=briefcase&logoColor=white)](mailto:mehmetogluilgaz07@gmail.com)
+
+## About Me
 
 I'm a psychologically minded developer aspiring to work in UX and Usability Testing.
 
