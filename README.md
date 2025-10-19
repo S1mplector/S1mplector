@@ -2,6 +2,8 @@
 
 ## About Me
 
+[![Available for Hire](https://img.shields.io/badge/Available%20for%20Hire-Yes-green)](mailto:mehmetogluilgaz07@gmail.com)
+
 I'm a psychologically minded developer aspiring to work in UX and Usability Testing.
 
 My focus is on creating **optimized, lightweight and easy to use applications** that deliver maximum functionality with minimal resource footprint.
@@ -58,6 +60,5 @@ I'm always interested in discussing collaborating on future projects and persona
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilgaz-mehmeto%C4%9Flu-8ab3992a2/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehmetogluilgaz07@gmail.com)
-[![Available for Hire](https://img.shields.io/badge/Available%20for%20Hire-Yes-green)](mailto:mehmetogluilgaz07@gmail.com)
 
 ---
