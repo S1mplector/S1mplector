@@ -49,6 +49,7 @@ My work emphasizes **test-driven development** to build reliable, maintainable s
 ## Professional Interests
 
 - **Standalone Desktop Application Development** (Windows/Cross-platform)
+- **Video Game and Game Engine Development**
 - **Developer Tools & Productivity Software**
 - **Educational Software**
 
