@@ -32,7 +32,7 @@ My work emphasizes **test-driven development** to build reliable, maintainable s
 
 ## Latest Projects
 
-### [Java Vector Nexus Engine](https://github.com/S1mplector/Java-Vector Nexus)
+### [Java Vector Nexus Engine](https://github.com/S1mplector/Java-Vector-Nexus)
 > **A Standalone Visual Novel Engine written in Java**
 
 ---
