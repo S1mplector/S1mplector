@@ -32,10 +32,8 @@ My work emphasizes **test-driven development** to build reliable, maintainable s
 
 ## Latest Projects
 
-### [SimBlock - Input Device Blocker](https://github.com/S1mplector/Simblock)
-> **A lightweight Windows utility for safely cleaning peripherals**
-
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/.NET_8-5C2D91?style=flat-square&logo=.net&logoColor=white"> <img src="https://img.shields.io/badge/WinForms-0078D4?style=flat-square&logo=windows&logoColor=white">
+### [Java Vector Nexus Engine](https://github.com/S1mplector/Java-Vector Nexus)
+> **A Standalone Visual Novel Engine written in Java**
 
 ---
 
