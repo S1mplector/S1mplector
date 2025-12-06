@@ -1,4 +1,4 @@
-# Hi there! I'm Ilgaz. 
+# Hi there! I'm Sim. 
 
 [![Available for Work](https://img.shields.io/badge/Available%20for%20Work-Yes-blue?style=flat-square&logo=briefcase&logoColor=white)](mailto:mehmetogluilgaz07@gmail.com)
 
