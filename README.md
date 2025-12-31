@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a psychologically minded developer with a passion for QA and Usability Testing. I specialize in crafting **optimized, lightweight applications** with easy to use user interfaces that deliver great user experiences. 
+I'm a psychologically minded developer with a passion for QA and Usability Testing. I specialize in crafting **optimized, lightweight standalone applications** with easy to use user interfaces that deliver great user experiences. I try to keep all of my software as dependency free as possible, and do most things from scratch. 
 
 My work emphasizes **test-driven development** to build reliable, maintainable software. I'm dedicated to creating tools that make technology more accessible and enjoyable for everyone.
 
