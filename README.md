@@ -1,6 +1,6 @@
 # Hi there! I'm Sim. 
 
-[![Available for Work](https://img.shields.io/badge/Available%20for%20Work-No-red?style=flat-square&logo=briefcase&logoColor=white)](mailto:mehmetogluilgaz07@gmail.com) (until the end of April 2026) 
+[![Available for Work](https://img.shields.io/badge/Available%20for%20Work-No-red?style=flat-square&logo=briefcase&logoColor=white)](mailto:mehmetogluilgaz07@gmail.com) (until the end of August 2026) 
 
 ## About Me
 
