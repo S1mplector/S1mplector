@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a developer with a passion for QA and Usability Testing. I specialize in crafting **optimized, lightweight standalone applications** with easy to use user interfaces that deliver great user experiences. I try to keep all of my software as dependency free as possible, and do most things from scratch. 
+I'm a developer with a passion for QA and Usability Testing.
 
 My work emphasizes **test-driven development** to build reliable, maintainable software. I'm dedicated to creating tools that make technology more accessible and enjoyable for everyone.
 
@@ -37,13 +37,6 @@ My work emphasizes **test-driven development** to build reliable, maintainable s
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=S1mplector&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S1mplector&layout=compact&langs_count=8&theme=dark"/>
-</div>
-
 ## Professional Interests
 
 - **Standalone Desktop Application Development** (Windows/Cross-platform)
@@ -53,7 +46,7 @@ My work emphasizes **test-driven development** to build reliable, maintainable s
 
 ## Let's Connect!
 
-I'm always interested in discussing collaborating on future projects and personal inquiries. Feel free to reach out!
+I'm always interested in discussing collaborating on future projects and personal inquiries. Feel free to reach out.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilgaz-mehmeto%C4%9Flu-8ab3992a2/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehmetogluilgaz07@gmail.com)
